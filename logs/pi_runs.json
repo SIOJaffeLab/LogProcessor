@@ -1,0 +1,832 @@
+[
+    {
+        "timestamp": "2024-08-20T08:21:13",
+        "distance": 70.1,
+        "seconds_after_start": 150.0
+    },
+    {
+        "timestamp": "2024-08-20T08:21:19",
+        "distance": 71.8,
+        "seconds_after_start": 156.0
+    },
+    {
+        "timestamp": "2024-08-20T08:21:29",
+        "distance": 75.1,
+        "seconds_after_start": 166.0
+    },
+    {
+        "timestamp": "2024-08-20T08:21:39",
+        "distance": 78.3,
+        "seconds_after_start": 176.0
+    },
+    {
+        "timestamp": "2024-08-20T08:21:49",
+        "distance": 81.8,
+        "seconds_after_start": 186.0
+    },
+    {
+        "timestamp": "2024-08-20T08:21:59",
+        "distance": 85.5,
+        "seconds_after_start": 196.0
+    },
+    {
+        "timestamp": "2024-08-20T08:22:09",
+        "distance": 89.0,
+        "seconds_after_start": 206.0
+    },
+    {
+        "timestamp": "2024-08-20T08:22:19",
+        "distance": 92.7,
+        "seconds_after_start": 216.0
+    },
+    {
+        "timestamp": "2024-08-20T08:22:29",
+        "distance": 96.4,
+        "seconds_after_start": 226.0
+    },
+    {
+        "timestamp": "2024-08-20T08:22:39",
+        "distance": 99.9,
+        "seconds_after_start": 236.0
+    },
+    {
+        "timestamp": "2024-08-20T08:23:47",
+        "distance": 226.8,
+        "seconds_after_start": 304.0
+    },
+    {
+        "timestamp": "2024-08-20T08:23:53",
+        "distance": 225.6,
+        "seconds_after_start": 310.0
+    },
+    {
+        "timestamp": "2024-08-20T08:24:03",
+        "distance": 223.2,
+        "seconds_after_start": 320.0
+    },
+    {
+        "timestamp": "2024-08-20T08:24:13",
+        "distance": 220.8,
+        "seconds_after_start": 330.0
+    },
+    {
+        "timestamp": "2024-08-20T08:24:23",
+        "distance": 218.5,
+        "seconds_after_start": 340.0
+    },
+    {
+        "timestamp": "2024-08-20T08:24:33",
+        "distance": 216.3,
+        "seconds_after_start": 350.0
+    },
+    {
+        "timestamp": "2024-08-20T08:24:43",
+        "distance": 213.3,
+        "seconds_after_start": 360.0
+    },
+    {
+        "timestamp": "2024-08-20T08:24:53",
+        "distance": 210.9,
+        "seconds_after_start": 370.0
+    },
+    {
+        "timestamp": "2024-08-20T08:25:03",
+        "distance": 208.9,
+        "seconds_after_start": 380.0
+    },
+    {
+        "timestamp": "2024-08-20T08:25:13",
+        "distance": 206.1,
+        "seconds_after_start": 390.0
+    },
+    {
+        "timestamp": "2024-08-20T08:29:07",
+        "distance": 526.2,
+        "seconds_after_start": 624.0
+    },
+    {
+        "timestamp": "2024-08-20T08:29:12",
+        "distance": 531.8,
+        "seconds_after_start": 629.0
+    },
+    {
+        "timestamp": "2024-08-20T08:29:22",
+        "distance": 521.8,
+        "seconds_after_start": 639.0
+    },
+    {
+        "timestamp": "2024-08-20T08:29:32",
+        "distance": 518.4,
+        "seconds_after_start": 649.0
+    },
+    {
+        "timestamp": "2024-08-20T08:29:42",
+        "distance": 515.4,
+        "seconds_after_start": 659.0
+    },
+    {
+        "timestamp": "2024-08-20T08:30:01",
+        "distance": null,
+        "seconds_after_start": 678.0
+    },
+    {
+        "timestamp": "2024-08-20T08:30:05",
+        "distance": 511.7,
+        "seconds_after_start": 682.0
+    },
+    {
+        "timestamp": "2024-08-20T08:30:12",
+        "distance": 509.4,
+        "seconds_after_start": 689.0
+    },
+    {
+        "timestamp": "2024-08-20T08:30:22",
+        "distance": 506.2,
+        "seconds_after_start": 699.0
+    },
+    {
+        "timestamp": "2024-08-20T08:30:32",
+        "distance": 503.2,
+        "seconds_after_start": 709.0
+    },
+    {
+        "timestamp": "2024-08-20T08:30:43",
+        "distance": 782.8,
+        "seconds_after_start": 740.0
+    },
+    {
+        "timestamp": "2024-08-20T08:30:47",
+        "distance": 781.0,
+        "seconds_after_start": 744.0
+    },
+    {
+        "timestamp": "2024-08-20T08:30:56",
+        "distance": 778.6,
+        "seconds_after_start": 753.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:06",
+        "distance": 772.9,
+        "seconds_after_start": 763.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:23",
+        "distance": null,
+        "seconds_after_start": 780.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:28",
+        "distance": 755.1,
+        "seconds_after_start": 785.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:36",
+        "distance": 766.5,
+        "seconds_after_start": 793.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:46",
+        "distance": 763.6,
+        "seconds_after_start": 803.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:56",
+        "distance": 760.5,
+        "seconds_after_start": 813.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:04",
+        "distance": 1020.1,
+        "seconds_after_start": 902.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:09",
+        "distance": 1019.1,
+        "seconds_after_start": 907.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:16",
+        "distance": 1017.7,
+        "seconds_after_start": 914.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:26",
+        "distance": 1014.1,
+        "seconds_after_start": 924.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:36",
+        "distance": 1010.8,
+        "seconds_after_start": 934.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:46",
+        "distance": 1009.3,
+        "seconds_after_start": 944.0
+    },
+    {
+        "timestamp": "2024-08-20T08:31:56",
+        "distance": 1005.9,
+        "seconds_after_start": 954.0
+    },
+    {
+        "timestamp": "2024-08-20T08:32:06",
+        "distance": 1002.9,
+        "seconds_after_start": 964.0
+    },
+    {
+        "timestamp": "2024-08-20T08:32:16",
+        "distance": 999.5,
+        "seconds_after_start": 974.0
+    },
+    {
+        "timestamp": "2024-08-20T08:32:53",
+        "distance": null,
+        "seconds_after_start": 1004.0
+    },
+    {
+        "timestamp": "2024-08-20T08:33:06",
+        "distance": null,
+        "seconds_after_start": 1017.0
+    },
+    {
+        "timestamp": "2024-08-20T08:33:18",
+        "distance": null,
+        "seconds_after_start": 1029.0
+    },
+    {
+        "timestamp": "2024-08-20T08:33:31",
+        "distance": null,
+        "seconds_after_start": 1042.0
+    },
+    {
+        "timestamp": "2024-08-20T08:33:43",
+        "distance": null,
+        "seconds_after_start": 1054.0
+    },
+    {
+        "timestamp": "2024-08-20T08:33:56",
+        "distance": null,
+        "seconds_after_start": 1067.0
+    },
+    {
+        "timestamp": "2024-08-20T08:34:08",
+        "distance": null,
+        "seconds_after_start": 1079.0
+    },
+    {
+        "timestamp": "2024-08-20T08:34:20",
+        "distance": null,
+        "seconds_after_start": 1091.0
+    },
+    {
+        "timestamp": "2024-08-20T08:34:54",
+        "distance": null,
+        "seconds_after_start": 1135.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:18",
+        "distance": null,
+        "seconds_after_start": 1159.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:31",
+        "distance": null,
+        "seconds_after_start": 1172.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:43",
+        "distance": null,
+        "seconds_after_start": 1184.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:56",
+        "distance": null,
+        "seconds_after_start": 1197.0
+    },
+    {
+        "timestamp": "2024-08-20T08:36:01",
+        "distance": 1174.8,
+        "seconds_after_start": 1202.0
+    },
+    {
+        "timestamp": "2024-08-20T08:36:13",
+        "distance": null,
+        "seconds_after_start": 1214.0
+    },
+    {
+        "timestamp": "2024-08-20T08:36:26",
+        "distance": null,
+        "seconds_after_start": 1227.0
+    },
+    {
+        "timestamp": "2024-08-20T08:34:54",
+        "distance": null,
+        "seconds_after_start": 1225.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:06",
+        "distance": null,
+        "seconds_after_start": 1237.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:18",
+        "distance": null,
+        "seconds_after_start": 1249.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:31",
+        "distance": null,
+        "seconds_after_start": 1262.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:43",
+        "distance": null,
+        "seconds_after_start": 1274.0
+    },
+    {
+        "timestamp": "2024-08-20T08:35:56",
+        "distance": null,
+        "seconds_after_start": 1287.0
+    },
+    {
+        "timestamp": "2024-08-20T08:36:01",
+        "distance": 1174.8,
+        "seconds_after_start": 1292.0
+    },
+    {
+        "timestamp": "2024-08-20T08:36:13",
+        "distance": null,
+        "seconds_after_start": 1304.0
+    },
+    {
+        "timestamp": "2024-08-20T08:36:26",
+        "distance": null,
+        "seconds_after_start": 1317.0
+    },
+    {
+        "timestamp": "2024-08-20T08:37:44",
+        "distance": null,
+        "seconds_after_start": 1481.0
+    },
+    {
+        "timestamp": "2024-08-20T08:37:56",
+        "distance": null,
+        "seconds_after_start": 1493.0
+    },
+    {
+        "timestamp": "2024-08-20T08:38:09",
+        "distance": null,
+        "seconds_after_start": 1506.0
+    },
+    {
+        "timestamp": "2024-08-20T08:38:21",
+        "distance": null,
+        "seconds_after_start": 1518.0
+    },
+    {
+        "timestamp": "2024-08-20T08:38:34",
+        "distance": null,
+        "seconds_after_start": 1531.0
+    },
+    {
+        "timestamp": "2024-08-20T08:38:46",
+        "distance": null,
+        "seconds_after_start": 1543.0
+    },
+    {
+        "timestamp": "2024-08-20T08:38:59",
+        "distance": null,
+        "seconds_after_start": 1556.0
+    },
+    {
+        "timestamp": "2024-08-20T08:40:55",
+        "distance": null,
+        "seconds_after_start": 1332.0
+    },
+    {
+        "timestamp": "2024-08-20T08:41:08",
+        "distance": null,
+        "seconds_after_start": 1345.0
+    },
+    {
+        "timestamp": "2024-08-20T08:41:20",
+        "distance": null,
+        "seconds_after_start": 1357.0
+    },
+    {
+        "timestamp": "2024-08-20T08:41:33",
+        "distance": null,
+        "seconds_after_start": 1370.0
+    },
+    {
+        "timestamp": "2024-08-20T08:41:45",
+        "distance": null,
+        "seconds_after_start": 1382.0
+    },
+    {
+        "timestamp": "2024-08-20T08:41:58",
+        "distance": null,
+        "seconds_after_start": 1395.0
+    },
+    {
+        "timestamp": "2024-08-20T08:42:10",
+        "distance": null,
+        "seconds_after_start": 1407.0
+    },
+    {
+        "timestamp": "2024-08-20T08:42:23",
+        "distance": null,
+        "seconds_after_start": 1420.0
+    },
+    {
+        "timestamp": "2024-08-20T08:43:00",
+        "distance": null,
+        "seconds_after_start": 1457.0
+    },
+    {
+        "timestamp": "2024-08-20T08:43:40",
+        "distance": null,
+        "seconds_after_start": 1497.0
+    },
+    {
+        "timestamp": "2024-08-20T08:43:53",
+        "distance": null,
+        "seconds_after_start": 1510.0
+    },
+    {
+        "timestamp": "2024-08-20T08:44:05",
+        "distance": null,
+        "seconds_after_start": 1522.0
+    },
+    {
+        "timestamp": "2024-08-20T08:44:18",
+        "distance": null,
+        "seconds_after_start": 1535.0
+    },
+    {
+        "timestamp": "2024-08-20T08:44:30",
+        "distance": null,
+        "seconds_after_start": 1547.0
+    },
+    {
+        "timestamp": "2024-08-20T08:50:00",
+        "distance": 1255.5,
+        "seconds_after_start": 1917.0
+    },
+    {
+        "timestamp": "2024-08-20T08:50:06",
+        "distance": 1254.1,
+        "seconds_after_start": 1923.0
+    },
+    {
+        "timestamp": "2024-08-20T08:50:15",
+        "distance": 1259.7,
+        "seconds_after_start": 1932.0
+    },
+    {
+        "timestamp": "2024-08-20T08:50:25",
+        "distance": 1256.4,
+        "seconds_after_start": 1942.0
+    },
+    {
+        "timestamp": "2024-08-20T08:50:35",
+        "distance": 1253.6,
+        "seconds_after_start": 1952.0
+    },
+    {
+        "timestamp": "2024-08-20T08:50:45",
+        "distance": 1241.1,
+        "seconds_after_start": 1962.0
+    },
+    {
+        "timestamp": "2024-08-20T08:50:55",
+        "distance": 1246.5,
+        "seconds_after_start": 1972.0
+    },
+    {
+        "timestamp": "2024-08-20T08:51:05",
+        "distance": 1243.4,
+        "seconds_after_start": 1982.0
+    },
+    {
+        "timestamp": "2024-08-20T08:51:15",
+        "distance": 1240.5,
+        "seconds_after_start": 1992.0
+    },
+    {
+        "timestamp": "2024-08-20T08:51:25",
+        "distance": 1237.1,
+        "seconds_after_start": 2002.0
+    },
+    {
+        "timestamp": "2024-08-20T08:52:01",
+        "distance": 1447.6,
+        "seconds_after_start": 2068.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:07",
+        "distance": 1444.9,
+        "seconds_after_start": 2074.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:15",
+        "distance": 1441.9,
+        "seconds_after_start": 2082.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:25",
+        "distance": 1438.8,
+        "seconds_after_start": 2092.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:35",
+        "distance": 1435.7,
+        "seconds_after_start": 2102.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:45",
+        "distance": 1432.5,
+        "seconds_after_start": 2112.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:55",
+        "distance": 1429.2,
+        "seconds_after_start": 2122.5
+    },
+    {
+        "timestamp": "2024-08-20T08:53:05",
+        "distance": 1426.6,
+        "seconds_after_start": 2132.5
+    },
+    {
+        "timestamp": "2024-08-20T08:53:15",
+        "distance": 1424.7,
+        "seconds_after_start": 2142.5
+    },
+    {
+        "timestamp": "2024-08-20T08:53:25",
+        "distance": 1421.8,
+        "seconds_after_start": 2152.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:01",
+        "distance": 1447.6,
+        "seconds_after_start": 2068.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:07",
+        "distance": 1444.9,
+        "seconds_after_start": 2074.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:15",
+        "distance": 1441.9,
+        "seconds_after_start": 2082.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:25",
+        "distance": 1438.8,
+        "seconds_after_start": 2092.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:35",
+        "distance": 1435.7,
+        "seconds_after_start": 2102.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:45",
+        "distance": 1432.5,
+        "seconds_after_start": 2112.5
+    },
+    {
+        "timestamp": "2024-08-20T08:52:55",
+        "distance": 1429.2,
+        "seconds_after_start": 2122.5
+    },
+    {
+        "timestamp": "2024-08-20T08:53:05",
+        "distance": 1426.6,
+        "seconds_after_start": 2132.5
+    },
+    {
+        "timestamp": "2024-08-20T08:53:15",
+        "distance": 1424.7,
+        "seconds_after_start": 2142.5
+    },
+    {
+        "timestamp": "2024-08-20T08:53:25",
+        "distance": 1421.8,
+        "seconds_after_start": 2152.5
+    },
+    {
+        "timestamp": "2024-08-20T08:54:46",
+        "distance": 1725.0,
+        "seconds_after_start": 2363.0
+    },
+    {
+        "timestamp": "2024-08-20T08:55:03",
+        "distance": null,
+        "seconds_after_start": 2380.0
+    },
+    {
+        "timestamp": "2024-08-20T08:55:09",
+        "distance": 1717.3,
+        "seconds_after_start": 2386.0
+    },
+    {
+        "timestamp": "2024-08-20T08:55:16",
+        "distance": 1714.8,
+        "seconds_after_start": 2393.0
+    },
+    {
+        "timestamp": "2024-08-20T08:55:26",
+        "distance": 1704.3,
+        "seconds_after_start": 2403.0
+    },
+    {
+        "timestamp": "2024-08-20T08:56:05",
+        "distance": 1989.3,
+        "seconds_after_start": 2422.0
+    },
+    {
+        "timestamp": "2024-08-20T08:56:11",
+        "distance": 1987.5,
+        "seconds_after_start": 2428.0
+    },
+    {
+        "timestamp": "2024-08-20T08:56:18",
+        "distance": 1985.7,
+        "seconds_after_start": 2435.0
+    },
+    {
+        "timestamp": "2024-08-20T08:56:28",
+        "distance": 1982.8,
+        "seconds_after_start": 2445.0
+    },
+    {
+        "timestamp": "2024-08-20T08:56:38",
+        "distance": 1980.3,
+        "seconds_after_start": 2455.0
+    },
+    {
+        "timestamp": "2024-08-20T08:56:48",
+        "distance": 1977.4,
+        "seconds_after_start": 2465.0
+    },
+    {
+        "timestamp": "2024-08-20T08:56:58",
+        "distance": 1974.8,
+        "seconds_after_start": 2475.0
+    },
+    {
+        "timestamp": "2024-08-20T08:57:08",
+        "distance": 1971.7,
+        "seconds_after_start": 2485.0
+    },
+    {
+        "timestamp": "2024-08-20T08:57:18",
+        "distance": 1969.2,
+        "seconds_after_start": 2495.0
+    },
+    {
+        "timestamp": "2024-08-20T08:57:28",
+        "distance": 1966.1,
+        "seconds_after_start": 2505.0
+    },
+    {
+        "timestamp": "2024-08-20T08:58:13",
+        "distance": null,
+        "seconds_after_start": 2670.0
+    },
+    {
+        "timestamp": "2024-08-20T08:58:25",
+        "distance": null,
+        "seconds_after_start": 2682.0
+    },
+    {
+        "timestamp": "2024-08-20T08:58:32",
+        "distance": 2215.1,
+        "seconds_after_start": 2689.0
+    },
+    {
+        "timestamp": "2024-08-20T08:58:38",
+        "distance": 2213.7,
+        "seconds_after_start": 2695.0
+    },
+    {
+        "timestamp": "2024-08-20T08:58:44",
+        "distance": 2212.4,
+        "seconds_after_start": 2701.0
+    },
+    {
+        "timestamp": "2024-08-20T08:58:51",
+        "distance": 2211.1,
+        "seconds_after_start": 2708.0
+    },
+    {
+        "timestamp": "2024-08-20T08:58:59",
+        "distance": 2209.3,
+        "seconds_after_start": 2716.0
+    },
+    {
+        "timestamp": "2024-08-20T08:59:09",
+        "distance": 2206.6,
+        "seconds_after_start": 2726.0
+    },
+    {
+        "timestamp": "2024-08-20T08:59:19",
+        "distance": 2205.0,
+        "seconds_after_start": 2736.0
+    },
+    {
+        "timestamp": "2024-08-20T08:59:30",
+        "distance": 2203.1,
+        "seconds_after_start": 2747.0
+    },
+    {
+        "timestamp": "2024-08-20T09:00:04",
+        "distance": null,
+        "seconds_after_start": 2481.0
+    },
+    {
+        "timestamp": "2024-08-20T09:00:17",
+        "distance": null,
+        "seconds_after_start": 2494.0
+    },
+    {
+        "timestamp": "2024-08-20T09:00:29",
+        "distance": null,
+        "seconds_after_start": 2506.0
+    },
+    {
+        "timestamp": "2024-08-20T09:00:42",
+        "distance": null,
+        "seconds_after_start": 2519.0
+    },
+    {
+        "timestamp": "2024-08-20T09:00:54",
+        "distance": null,
+        "seconds_after_start": 2531.0
+    },
+    {
+        "timestamp": "2024-08-20T09:01:07",
+        "distance": null,
+        "seconds_after_start": 2544.0
+    },
+    {
+        "timestamp": "2024-08-20T09:01:13",
+        "distance": 2471.2,
+        "seconds_after_start": 2550.0
+    },
+    {
+        "timestamp": "2024-08-20T09:01:26",
+        "distance": null,
+        "seconds_after_start": 2563.0
+    },
+    {
+        "timestamp": "2024-08-20T09:01:33",
+        "distance": 2455.2,
+        "seconds_after_start": 2570.0
+    },
+    {
+        "timestamp": "2024-08-20T09:02:06",
+        "distance": null,
+        "seconds_after_start": 2603.0
+    },
+    {
+        "timestamp": "2024-08-20T09:02:19",
+        "distance": null,
+        "seconds_after_start": 2616.0
+    },
+    {
+        "timestamp": "2024-08-20T09:02:31",
+        "distance": null,
+        "seconds_after_start": 2628.0
+    },
+    {
+        "timestamp": "2024-08-20T09:02:43",
+        "distance": null,
+        "seconds_after_start": 2640.0
+    },
+    {
+        "timestamp": "2024-08-20T09:02:56",
+        "distance": null,
+        "seconds_after_start": 2653.0
+    },
+    {
+        "timestamp": "2024-08-20T09:03:08",
+        "distance": null,
+        "seconds_after_start": 2665.0
+    },
+    {
+        "timestamp": "2024-08-20T09:03:21",
+        "distance": null,
+        "seconds_after_start": 2678.0
+    },
+    {
+        "timestamp": "2024-08-20T09:03:33",
+        "distance": null,
+        "seconds_after_start": 2690.0
+    }
+]
