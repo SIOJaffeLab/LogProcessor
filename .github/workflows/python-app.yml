@@ -32,6 +32,7 @@ jobs:
         pip install geopy
         pip install matplotlib
         pip install loguru
+        pip install rasterio
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Build Folium App
       run: |
