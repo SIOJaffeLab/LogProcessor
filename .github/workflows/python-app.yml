@@ -1,4 +1,4 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# This workflow will install Python dependencies, run tests, lint, and commit the generated index.html to the main branch.
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
 name: Python application
@@ -10,7 +10,7 @@ on:
     branches: [ "main" ]
 
 permissions:
-  contents: read
+  contents: write  # Update permission to allow write access
 
 jobs:
   build:
@@ -19,21 +19,29 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install flake8 pytest
-        pip install folium
-        pip install numpy
-        pip install geopy
-        pip install matplotlib
-        pip install loguru
-        pip install rasterio
+        pip install folium numpy geopy matplotlib loguru rasterio
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
     - name: Build Folium App
       run: |
         python make_site.py
+
+    - name: Commit and Push generated site files
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add ./site/index.html
+        git commit -m "Update generated site files"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
